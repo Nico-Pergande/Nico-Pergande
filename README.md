@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nico Pergande</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nico-pergande&label=Profile%20views&color=0e75b6&style=flat" alt="nico-pergande" /> </p>
 
-- 🔭 I’m currently working on **Squid-Development**
+- 🔭 I’m currently working at **Squid-Development**
+- 🔭 I’m currently working on next.js version of: [https://spacehal.github.io](https://github.com/SpaceHal/spacehal.github.io)
 
 - 🌱 I’m currently learning **backend webdevelopment**
 
